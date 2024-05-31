@@ -1,8 +1,15 @@
-# React + Vite
+## React day 1 task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ** React price price card**
 
-Currently, two official plugins are available:
+**procedure:-**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step 1: Open command prompt then write cd desktop -> [npm -v] ->[npm create vite@latest] next project name[reactday1] -> select [react] -> [javascript]
+
+Step 2: Open file manager then select project name [reactday1] tpye cmd then open command prompt type (code .) then create vs code.
+
+Step 3: To create react price card task to  the task.
+
+step 4: Then open terminal -> npm install next npm run dev to create web page for the result.
+
+Step 5: Then we can see the perice card task github and netlify.com
